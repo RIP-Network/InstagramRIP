@@ -29,8 +29,8 @@ time.sleep(5)
 
 acceptCookies = web.find_element_by_xpath("/html/body/div[4]/div/div/button[1]").click()
 time.sleep(5)
-user = "bot_7626"
-paswd = "44126026c"
+user = "Usuario"
+paswd = "Contraseña"
 inputUser = web.find_element_by_xpath(
         "/html/body/div[1]/section/main/article/div[2]/div[1]/div/form/div/div[1]/div/label/input")
 inputUser.send_keys(user)
