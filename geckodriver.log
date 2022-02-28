@@ -1,0 +1,184 @@
+1645568471696	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5uI6RG"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1645568472493	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5uI6RG/search.json.mozlz4", (void 0)))
+1645568475386	Marionette	INFO	Listening on port 42315
+1645568475511	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645568645479	Marionette	INFO	Stopped listening on port 42315
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645569144244	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileO5C6VR"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1645569145053	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileO5C6VR/search.json.mozlz4", (void 0)))
+1645569147941	Marionette	INFO	Listening on port 32801
+1645569148046	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645569280247	Marionette	INFO	Stopped listening on port 32801
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645569334077	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileq6q95p"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1645569334939	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileq6q95p/search.json.mozlz4", (void 0)))
+1645569337914	Marionette	INFO	Listening on port 39369
+1645569337997	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645569441106	Marionette	INFO	Stopped listening on port 39369
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1645569454216	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiAXTVo"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1645569455048	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiAXTVo/search.json.mozlz4", (void 0)))
+1645569458051	Marionette	INFO	Listening on port 44639
+1645569458136	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645569487736	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4YzQV5"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1645569488560	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4YzQV5/search.json.mozlz4", (void 0)))
+1645569491411	Marionette	INFO	Listening on port 45945
+1645569491481	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645569767488	Marionette	INFO	Stopped listening on port 44639
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1645569770921	Marionette	INFO	Stopped listening on port 45945
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1645569855969	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9yFa7P"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1645569856781	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9yFa7P/search.json.mozlz4", (void 0)))
+1645569861159	Marionette	INFO	Listening on port 36989
+1645569861298	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645569895709	Marionette	INFO	Stopped listening on port 36989
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1645570039604	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6BXD37"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1645570040421	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6BXD37/search.json.mozlz4", (void 0)))
+1645570043572	Marionette	INFO	Listening on port 45977
+1645570043628	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645570071640	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefmRJUA"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1645570072459	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefmRJUA/search.json.mozlz4", (void 0)))
+1645570075361	Marionette	INFO	Listening on port 42525
+1645570075470	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645570095507	Marionette	INFO	Stopped listening on port 42525
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645570096837	Marionette	INFO	Stopped listening on port 45977
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 829: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1645570170636	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexd3jRi"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1645570171448	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexd3jRi/search.json.mozlz4", (void 0)))
+1645570174319	Marionette	INFO	Listening on port 41401
+1645570174440	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+1645570223423	Marionette	INFO	Stopped listening on port 41401
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1645570335156	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9Obg8o"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1645570335970	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9Obg8o/search.json.mozlz4", (void 0)))
+1645570338806	Marionette	INFO	Listening on port 35579
+1645570338858	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645570367004	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilea1O0UT"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1645570367827	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilea1O0UT/search.json.mozlz4", (void 0)))
+1645570370656	Marionette	INFO	Listening on port 46397
+1645570370707	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645570412789	Marionette	INFO	Stopped listening on port 46397
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1645570413697	Marionette	INFO	Stopped listening on port 35579
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645628506412	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKLiGaD"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1645628507299	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKLiGaD/search.json.mozlz4", (void 0)))
+1645628510091	Marionette	INFO	Listening on port 40473
+1645628510214	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645628816760	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejzs6qM"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1645628817566	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejzs6qM/search.json.mozlz4", (void 0)))
+1645628820425	Marionette	INFO	Listening on port 38711
+1645628820479	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645628994945	Marionette	INFO	Stopped listening on port 40473
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645628998828	Marionette	INFO	Stopped listening on port 38711
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1645629033280	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQuE4QY"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1645629034096	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQuE4QY/search.json.mozlz4", (void 0)))
+1645629036995	Marionette	INFO	Listening on port 45809
+1645629037093	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645629066332	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3i4jgH"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1645629067138	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3i4jgH/search.json.mozlz4", (void 0)))
+1645629069872	Marionette	INFO	Listening on port 42979
+1645629069935	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645629094055	Marionette	INFO	Stopped listening on port 42979
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645629097496	Marionette	INFO	Stopped listening on port 45809
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1645629224772	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile40juGF"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1645629225588	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile40juGF/search.json.mozlz4", (void 0)))
+1645629228496	Marionette	INFO	Listening on port 40559
+1645629228585	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645629255501	Marionette	INFO	Stopped listening on port 40559
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: IOUtils: Shutting down and refusing additional I/O tasks
+1645629269100	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejQ3E9F"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1645629269916	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejQ3E9F/search.json.mozlz4", (void 0)))
+1645629272687	Marionette	INFO	Listening on port 42783
+1645629272808	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645629300920	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOKwpGL"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1645629301771	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOKwpGL/search.json.mozlz4", (void 0)))
+1645629304688	Marionette	INFO	Listening on port 34321
+1645629304729	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645629326455	Marionette	INFO	Stopped listening on port 34321
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1645630325338	Marionette	INFO	Stopped listening on port 42783
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
